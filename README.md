@@ -3,6 +3,8 @@
 
 Scripts of the article 'Complete flow characterization from snapshot PIV, fast probes and physics-informed neural networks'. DOI: https://doi.org/10.1016/j.cma.2023.116652
 
+Please, read the Instructions.pdf file for a complete description of the scripts and the links to the Zenodo repository where datasets are available.
+
 ## **License**
 Creative Commons Attribution 4.0 International. See LICENSE.md for further details.
 
